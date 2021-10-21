@@ -1,10 +1,11 @@
+// EXERCICE 1 - BATMOBILE
+
 // Créer un class Car avec 2 propriétés de base:
 class Car {
     constructor (brand, speed){
         this.brand = brand
         this.speed = speed
     }
-
 
     // Ajouter 3 méthodes à la classe Car:
     accelerate(numUp){
